@@ -1,0 +1,8 @@
+¿Qué preguntas hiciste a la IA?
+Le pregunté cómo mejorar un chatbot en C++ que responde preguntas desde un archivo y también consultando la API de OpenAI. Además, pedí ayuda para solucionar errores relacionados con el análisis del JSON y cómo simplificar la salida de la respuesta del modelo
+
+¿Qué fragmentos de código o ideas generaste con ayuda de la IA?
+Con ayuda de la IA integré correctamente la librería nlohmann::json para analizar de forma segura y eficiente la respuesta de OpenAI. También implementé funciones para procesar texto, como normalizar palabras clave, buscar coincidencias, y mostrar solo la respuesta sin datos técnicos adicionales. Me apoyé en ejemplos concretos y en cómo estructurar mejor la interacción con el usuario
+
+¿Qué aprendiste al usarla?
+Aprendí a hacer peticiones HTTP en C++ usando libcurl, a manejar respuestas en formato JSON de forma segura y profesional, y a mejorar la lógica de un programa para hacerlo más intuitivo. También descubrí buenas prácticas al trabajar con APIs externas y cómo estructurar el código para que sea más claro y mantenible.
