@@ -6,3 +6,6 @@ Con ayuda de la IA integré correctamente la librería nlohmann::json para anali
 
 ¿Qué aprendiste al usarla?
 Aprendí a hacer peticiones HTTP en C++ usando libcurl, a manejar respuestas en formato JSON de forma segura y profesional, y a mejorar la lógica de un programa para hacerlo más intuitivo. También descubrí buenas prácticas al trabajar con APIs externas y cómo estructurar el código para que sea más claro y mantenible.
+
+Conclusión:
+El uso de la inteligencia artificial como apoyo en el desarrollo de software me permitió mejorar mis habilidades en programación, resolver errores de manera más eficiente y aprender nuevas herramientas como el manejo de APIs y el análisis de datos en formato JSON. Esta experiencia me mostró cómo la IA puede complementar el aprendizaje, acelerar el proceso de desarrollo y ofrecer soluciones claras a problemas técnicos, reforzando tanto mis conocimientos teóricos como prácticos.
